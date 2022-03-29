@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5979686d.css",
-    "main.js": "/static/js/main.48b3cbf7.js",
-    "static/media/suport.png": "/static/media/suport.1b3fc8c4d99fa31f478e.png",
-    "static/media/scam.png": "/static/media/scam.8cfef0dcbf3b6267db64.png",
-    "static/media/bbva.svg": "/static/media/bbva.d95c2432c9b0242d08e6797e9b717acf.svg",
-    "index.html": "/index.html",
-    "main.5979686d.css.map": "/static/css/main.5979686d.css.map",
-    "main.48b3cbf7.js.map": "/static/js/main.48b3cbf7.js.map"
+    "main.css": "/inofensive-clone/static/css/main.5979686d.css",
+    "main.js": "/inofensive-clone/static/js/main.38aabd6a.js",
+    "static/media/suport.png": "/inofensive-clone/static/media/suport.1b3fc8c4d99fa31f478e.png",
+    "static/media/scam.png": "/inofensive-clone/static/media/scam.8cfef0dcbf3b6267db64.png",
+    "static/media/bbva.svg": "/inofensive-clone/static/media/bbva.d95c2432c9b0242d08e6797e9b717acf.svg",
+    "index.html": "/inofensive-clone/index.html",
+    "main.5979686d.css.map": "/inofensive-clone/static/css/main.5979686d.css.map",
+    "main.38aabd6a.js.map": "/inofensive-clone/static/js/main.38aabd6a.js.map"
   },
   "entrypoints": [
     "static/css/main.5979686d.css",
-    "static/js/main.48b3cbf7.js"
+    "static/js/main.38aabd6a.js"
   ]
 }
