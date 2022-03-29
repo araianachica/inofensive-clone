@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5979686d.css",
+    "main.js": "/static/js/main.48b3cbf7.js",
+    "static/media/suport.png": "/static/media/suport.1b3fc8c4d99fa31f478e.png",
+    "static/media/scam.png": "/static/media/scam.8cfef0dcbf3b6267db64.png",
+    "static/media/bbva.svg": "/static/media/bbva.d95c2432c9b0242d08e6797e9b717acf.svg",
+    "index.html": "/index.html",
+    "main.5979686d.css.map": "/static/css/main.5979686d.css.map",
+    "main.48b3cbf7.js.map": "/static/js/main.48b3cbf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5979686d.css",
+    "static/js/main.48b3cbf7.js"
+  ]
+}
