@@ -3,7 +3,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        bbvaBlue: "#004481",
+        bbvaBlue: "#1973b8",
+        bbvaBlueMedium: "#004481" ,
+        bbvaBlueDark: "#072146",
       },
     },
   },

@@ -5,8 +5,8 @@ import { Home, Information, Form } from "../components/preventFraud";
 const PreventFraud = () => {
   return (
     <>
-      <div className="container h-full flex flex-col">
-        <div className="bg-bbvaBlue">
+      <div className="w-full h-full flex flex-col">
+        <div className="bg-bbvaBlueDark">
           <Header />
         </div>
         <div className="bg-gray-200 basis-auto grow">

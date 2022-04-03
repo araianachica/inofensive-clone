@@ -3,7 +3,7 @@ import React from "react";
 const MobileMenu = () => {
   return (
     <>
-      <div id="mobile-menu" className="text-white">
+      <div id="mobile-menu" className="text-white hidden">
         <nav>
           <ul className="hover:bg-white hover:text-black text-center py-2">
             Inicio

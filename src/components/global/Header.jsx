@@ -10,14 +10,14 @@ const Header = () => {
   };
   return (
     <>
-      <div className="flex flex-row flex-wrap justify-between my-4 px-4">
-        <img className="h-10" src={BBVA} alt="" />
+      <div className="flex flex-row flex-wrap justify-between my-3 px-4">
+        <img className="h-6 my-auto" src={BBVA} alt="" />
         <div className="my-auto">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             class="icon icon-tabler icon-tabler-menu-2"
-            width="44"
-            height="44"
+            width="22"
+            height="22"
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="#ffffff"

@@ -23,7 +23,7 @@ const Information = () => {
       </div>
       <div className="flex flex-col">
         <img className="w-32 mx-auto" src={Scam} alt="" />
-        <div className="flex flex-col bg-bbvaBlue px-4 py-8">
+        <div className="flex flex-col bg-bbvaBlueMedium px-4 py-8">
           <p className="font-bold text-lg text-white">
             Que no te invada la angustia o el miedo
           </p>
